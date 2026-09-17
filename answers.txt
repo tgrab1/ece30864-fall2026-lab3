@@ -14,3 +14,19 @@ QUESTION B:
 
 The Product Owner is responsible for setting the direction for team, handling releases, and managing stakeholders.
 The Scrum Master is responsible for all scrum related tasks such as JIRA tooling, facilitating sprints and meetings among developers.
+
+QUESTION C:
+
+The three types of meetings during a spring cycle are a Sprint Planning Meeting, a Daily Scrum/Standup Meeting, and a Sprint Retrospective meeting.
+
+Sprint Planning Meeting:
+- Determine what to complete in the coming Sprint
+- Move stories in sprint scope from backlog to current sprint
+
+Daily Scrum/Standup Meeting:
+- Team members discuss the work completed and work plan for the day 
+- Team members also discuss any blockers which are impacting progress.
+
+Sprint Retrospective Meeting:
+- Discuss work completed and move incomplete work to the backlog
+- Identify areas of improvement and create action items
