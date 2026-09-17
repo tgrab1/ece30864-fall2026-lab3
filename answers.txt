@@ -9,3 +9,8 @@ Cons:
 
 Massive time commitment to ensure daily meetings within Scrums, team developers, and customers.
 Changes are so easy and features are rapidly implemented, which can result in developers going over budget.
+
+QUESTION B:
+
+The Product Owner is responsible for setting the direction for team, handling releases, and managing stakeholders.
+The Scrum Master is responsible for all scrum related tasks such as JIRA tooling, facilitating sprints and meetings among developers.
