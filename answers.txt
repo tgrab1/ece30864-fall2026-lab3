@@ -30,3 +30,10 @@ Daily Scrum/Standup Meeting:
 Sprint Retrospective Meeting:
 - Discuss work completed and move incomplete work to the backlog
 - Identify areas of improvement and create action items
+
+QUESTION D:
+
+- An Epic captures a large body of work that can be broken down into several smaller stories
+- A story is a software system requirement that is expressed in a few short sentences
+- A task is a generic issue of interval work in JIRA, it usually sized for a single sprint.
+- A story is user or customer focused requirement written from the end user. Deliveres functionality to a user's product.
