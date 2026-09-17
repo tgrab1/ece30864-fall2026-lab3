@@ -1,0 +1,11 @@
+QUESTION A:
+
+Pros:
+
+Agile Development is more resilient to scope changes in the Project
+Agile Development has constant value and collaboration with customers
+
+Cons:
+
+Massive time commitment to ensure daily meetings within Scrums, team developers, and customers.
+Changes are so easy and features are rapidly implemented, which can result in developers going over budget.
